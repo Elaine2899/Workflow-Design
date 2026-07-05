@@ -1,4 +1,17 @@
+# OS files
+.DS_Store
+
+# IDE / VS Code configuration
+.vscode/
+*.code-workspace
+
+# Build / Java compilation outputs
+bin/
+out/
+*.class
+
+# Temporary / Draft files
+tt.text
 finalReq.md
 UML_Analysis.md
 Oops UML Editor - requirements.pdf
-.vscode
